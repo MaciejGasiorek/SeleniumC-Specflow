@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\features\\registeruser.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\features\\registeruser.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\driver\\driverwait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\driver\\driverwait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\pages\\signuppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\pages\\signuppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\stepdefinitions\\registeruserstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\stepdefinitions\\registeruserstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\driver\\driverfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\driver\\driverfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\support\\registration.data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\support\\registration.data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\config\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\config\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\support\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\support\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\hooks\\initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\hooks\\initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\config\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\config\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\pages\\generalpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\pages\\generalpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\driver\\idriverfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\driver\\idriverfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\driver\\idriverwait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\driver\\idriverwait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|c:\\users\\ma078ga\\desktop\\c sharp nauka\\selenium\u002Bc#\u002Bspecflow\u002Breport\\seleniumc#specflow\\seleniumc#specflow\\features\\registeruser.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4E18-F0BF-484B-B08B-1936ABF5A54D}|SeleniumC#Specflow\\SeleniumCsharpSpecflow.csproj|solutionrelative:seleniumc#specflow\\features\\registeruser.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriverFixture.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Driver\\DriverFixture.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Driver\\DriverFixture.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Driver\\DriverFixture.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Driver\\DriverFixture.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCAAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:41:06.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpPage.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Pages\\SignUpPage.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Pages\\SignUpPage.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Pages\\SignUpPage.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Pages\\SignUpPage.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAEkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:25:30.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterUser.feature",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Features\\RegisterUser.feature",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Features\\RegisterUser.feature",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Features\\RegisterUser.feature",
+              "RelativeToolTip": "SeleniumC#Specflow\\Features\\RegisterUser.feature",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAA/AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAi1SURBVFhH1VhpbFTXFf7e7KvHHo/3BYyNa2xoAhWVMZQmTaGNsyh0UVohtYooalF/RUKVqhaJNv3TNhU/WrVVlaqKorTiT9oqadpQESCoBJBwKWBiAzY2YON1Fo9n5r1Z3us5582MBy8kSkPkntE3771z79z73bPd\u002B0bBIjl7\u002BbyRVJNQNRUD49dElzVycv2oxaZY0VHfLvcupwselwfdmz69wMkwjOLDD3/9I4OvfaN9SFsigD2BrGVe2qgnoCxZy/8mBk\u002BnwKb7zOeMFw69AlvWbMHzX/uuqCqDIXPW51/8nvHu0BlTuS6K\u002BjUGAh4PAm6/6BTq9iD4kYEQS8XlOZZMYnxUwexwOba19ojuyMGfKRa5W8Wi/PXUG8bvj70EV8OwKLZ01WBnwxfQEmiD0\u002BoUHXmi8LVIJCpIPox52YSAltPk6WbsBt4Zewt9/ZNIja0T3b5d\u002B6AcOfpL47VLv0F3j1eUz3buRY23CvF0FFk9I7qVZSWCCiyUACy6kZXrSmKz2OXqd5RjMjGNo1dfxdl/mbG/55MHYG3b1nY45bmG7vYNCLor0BFsR1SbRkZPI6fnkKMM1kHg6yJ4HLVwO\u002BqRztGARCiTU6Wvz9mESv9meF3N1E9HMjMl4\u002BSILKPwex4/a6TJEGnqEyeSPsTSEYyEx\u002BH06NDnKmB1d7gO17el0V7bBLvVhpA7iCx9KC0kMRaSwzATLy8eRw3WVPaiwttJ91WUUG2Ia7dgtTjRFPw8ytxriXwVtVVjLjVKZFRzTPoUBi1NPKJD4\u002Bcwq86QJafg8VgxeHUOqz5JLFPzM3DarbCSixi8EmWhPC4RbmFYFLuALeImKzGctoC0Wi0uurK5DbISjWulfmQuu63MhNVHve61Dc/JczMHh90iYG4W/iGLOVxeluFntwbgcdZSGwU/IZmeRDjRTxMvTETUyE0cYxka2CaIJAagZsIod69HS\u002BhJAYeG19mY/1Ve8nOWRJEsykKRJY3cXsBiKXOvQ2v1HrRW7UFD\u002BU6BhbJvInYW49FTlBwJQVZPUW8DmWxc2hiTc\u002Bfgo0SqK98Bt71G4HXWSQxzoS6dtciBvhjMzSJBu6yQZfJm9TubyX1BKgluVFF2MmrLuomkDVPxCxiLnhTkiCCXlcn4eSJ3RuCwlaMmsE3calCGM9TMLBLpCbFQcZISMXcZvhEWq1vuQ1DPX2mfVIeQ1O5KvVOzEYHLXgkvuY6XOa/eFrCbcxR/CW2ctFQ2ZAwD0/E\u002BjEVOEN4W3A7/k8Ybl7HZzeLqe41YFGXDvi5jxy4rPrt\u002Biyg2hrrkeFXqer63WjziEq5VBWF3ckLcX3hXYTvIKKLh\u002BM3p2j2/5Xjj49eVmX6cvHZBdKePZT\u002BYi3lxvHVxHPLuwXBQSbFZPdSyKIbFEgs6LkVB30Nor9mLzvr9gg11\u002B9BW/SyVt\u002BD7WvC\u002BBOV3BBcRa6TdYW2oF82VjwsaKj4Hh7WMe4llGDayMqef11lPxBwCnfbzaHJQtjurxSFg0pzJPio1hcThRS3HcfUnyQqWJVkoAT7a9PkAYFVcZCCLIEJFmpOBd4SQb5OALcISpP25LrBdwHGbzc7jbuQ0oqkhAY/JhT6h3i1a3/SEyYZnliChL6qDJKTnIOXPgvA2RYFN0DIRaJS5GT2Bydg5wez8FSHaFNxN7n5M4KBtjAk7aNepLvuUYG3oadreAkjr87g58xfB1fHf4drEq1QNpopzFBgVWDA4rT6Qi\u002BfplHJr9u8YmXlDSgaDM7jCS0c0b1e\u002BF62W4suMJyow\u002BSOV37VGLMqTmSxowdm5fL8FrTBaRiwNgXqkNDpg6SbMxLi3N9ezVGZaXFqYmEflbObWQs3j4Oc2NRsuTmyGhFleTBYEYWRKXkOgD90wh5SWEzC31Z8knc0bMTudwZwWF2SydESnlSy2IitLFk6POiXKe7S7xClGZwVzqWHqo2Aiegaj4bcE45GTmKGQkEFNm8qnIKV1kOdmDsyH0bVmE6xPff2ZwwO3B\u002BCsjCOSmkPQFYDPRuc1ClzT7KbpC1i4sdDWFqNT9CgduwYQoVqXUCdJT\u002Bc6qn1JbYIwSfE7Rm43F10Kcxj\u002BMp9zOR1j8TH8e6Ift6/T60PKjk2N3VBe\u002BvMfjJdPvIyyphnqSW91D/vR6m9FtasWTjq\u002Bi3CmmXewUyKw2Gx0sHTY5L1Cz/AsIGtmCfyWZlqKxfw224uDkMgaSZ\u002Bm9xGWKXUCQ/Eh9F0kT94Oie4bj34TyukLp403zx3D3/r\u002BIcpQYwptG2zweixU9UVFw3DJAZ3rvNhRtVN0frePLKMjrWUQTodFd3WuH\u002BFUhHgsCu0SYkXJEyTDiSQSOm4MZDFzx4XezY\u002BL7onu3as/SYprO3PxjKzpJ6\u002B8CE2JQ7GnoRf\u002Bm7FpaOsysLmuE11lG02dYtDBU8MtdQSD0RuiujmaROyuhw4R5rvu\u002B4lBHlBV00ZaUoFHKccLz/0APZt7iryWGP/U\u002BXeM/9y8Ku67PHxJdJfDb2PnI2XoCfUgIC9GwDwd66\u002Brg7QzTKL/sio6f3Y9eh9\u002BAvFUAmPTd0UXicegpTWJ1bxfRTgG6YUItVVcS4HWhha01jbjqUeevIfTctEhMjI2YnzrFwfkvrztFrZvaEGHeyMm0uZBcyh1HbfGVfRf0NFRtVl0n9m0Hd/50v4Vx/wwsuJgh377gvHme0fl/rHdHnzC145YNorr4TuiGx40EB33Y\u002Bu6rfjVwSMfKalS\u002Bf9JklI5fu648eNXfo5g64Q8t3cqcCoejNyZx1C/uSYfGrGjsweH9n3/gVmPZVkL/un4a0gZYdQ1QZBSc7h0JYmL7yp4qG6n4ItbduGZHb35Xzw4WbL610\u002B8bhz\u002B409R1ZxAfbOZdYOXaFuL\u002B/Dcrr048NVvP1CLLZYlFozF4/C5nYiFDfT32QVGshK9W3fhy48\u002Bne/18cmqT5IlBFsaW2TPTYRt8Cu1goNfOYDD\u002Bw8p1aG6j9W9APBfalMByPAaL3sAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-31T20:00:53.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterUserStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\StepDefinitions\\RegisterUserStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\StepDefinitions\\RegisterUserStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\StepDefinitions\\RegisterUserStepDefinitions.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\StepDefinitions\\RegisterUserStepDefinitions.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:01:37.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Config\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Config\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Config\\ConfigReader.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Config\\ConfigReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:44:23.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Support\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Support\\JsonHelper.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Support\\JsonHelper.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Support\\JsonHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:44:18.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Initialization.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Hooks\\Initialization.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Hooks\\Initialization.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Hooks\\Initialization.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Hooks\\Initialization.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:14:44.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriverWait.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Driver\\DriverWait.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Driver\\DriverWait.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Driver\\DriverWait.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Driver\\DriverWait.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:22:49.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "registration.data.json",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Support\\registration.data.json",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Support\\registration.data.json",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Support\\registration.data.json",
+              "RelativeToolTip": "SeleniumC#Specflow\\Support\\registration.data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T20:19:22.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Models\\User.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:01:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Config\\TestSettings.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Config\\TestSettings.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Config\\TestSettings.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Config\\TestSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:44:24.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GeneralPage.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Pages\\GeneralPage.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Pages\\GeneralPage.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Pages\\GeneralPage.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Pages\\GeneralPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:20:53.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Pages\\HomePage.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Pages\\HomePage.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:28:48.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Startup.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Startup.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Startup.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:44:30.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDriverFixture.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Driver\\IDriverFixture.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Driver\\IDriverFixture.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Driver\\IDriverFixture.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Driver\\IDriverFixture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:55:06.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterUser.feature.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Features\\RegisterUser.feature.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Features\\RegisterUser.feature.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Features\\RegisterUser.feature.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Features\\RegisterUser.feature.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:01:49.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:21:17.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDriverWait.cs",
+              "DocumentMoniker": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Driver\\IDriverWait.cs",
+              "RelativeDocumentMoniker": "SeleniumC#Specflow\\Driver\\IDriverWait.cs",
+              "ToolTip": "C:\\Users\\MA078GA\\Desktop\\C sharp nauka\\Selenium\u002Bc#\u002Bspecflow\u002Breport\\SeleniumC#Specflow\\SeleniumC#Specflow\\Driver\\IDriverWait.cs",
+              "RelativeToolTip": "SeleniumC#Specflow\\Driver\\IDriverWait.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:25:01.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

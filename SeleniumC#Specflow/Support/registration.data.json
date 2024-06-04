@@ -1,0 +1,42 @@
+{
+    "user": {
+        "id": 1,
+        "name": "Maciej",
+        "email": "mac@op.pl",
+        "title": "Mr.",
+        "password": "pas123",
+        "day": "1",
+        "month": "11",
+        "year": "1989",
+        "company": "Pierogi",
+        "address": "1134 Columbia Road",
+        "address2": "Most",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Dallas",
+        "zipcode": "98607",
+        "mobileNumber": "111222333",
+        "firstName": "Maciej",
+        "lastName": "Gasiorek"
+    },
+    "user2": {
+        "id": 1,
+        "name": "Maciej",
+        "email": "gas@op.pl",
+        "title": "Mr.",
+        "password": "gas123",
+        "day": "1",
+        "month": "11",
+        "year": "1989",
+        "company": "Pierogi",
+        "address1": "1134 Columbia Road",
+        "address2": "Most",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Dallas",
+        "zipcode": "98607",
+        "mobileNumber": "111222333",
+        "firstName": "Maciej",
+        "lastName": "Gasiorek"
+    }
+}
