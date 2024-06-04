@@ -1,0 +1,6 @@
+C:\Users\MA078GA\Desktop\C sharp nauka\Selenium+c#+specflow+report\SeleniumCsharp-Specflow\IntegrationTests\obj\Debug\net5.0\IntegrationTests.csproj.AssemblyReference.cache
+C:\Users\MA078GA\Desktop\C sharp nauka\Selenium+c#+specflow+report\SeleniumCsharp-Specflow\IntegrationTests\obj\Debug\net5.0\IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MA078GA\Desktop\C sharp nauka\Selenium+c#+specflow+report\SeleniumCsharp-Specflow\IntegrationTests\obj\Debug\net5.0\IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\MA078GA\Desktop\C sharp nauka\Selenium+c#+specflow+report\SeleniumCsharp-Specflow\IntegrationTests\obj\Debug\net5.0\IntegrationTests.AssemblyInfo.cs
+C:\Users\MA078GA\Desktop\C sharp nauka\Selenium+c#+specflow+report\SeleniumCsharp-Specflow\IntegrationTests\obj\Debug\net5.0\IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\MA078GA\Desktop\C sharp nauka\Selenium+c#+specflow+report\SeleniumCsharp-Specflow\IntegrationTests\obj\Debug\net5.0\IntegrationTests.sourcelink.json

@@ -44,6 +44,9 @@ namespace SeleniumCsharpSpecflow.Driver
         private IWebDriver GetRemoteWebDriver()
         {
             ChromeOptions options = new ChromeOptions();
+            options.AddUserProfilePreference("profile.default_content_setting_values.notifications", 2);
+            options.AddUserProfilePreference("profile.default_content_setting_values.popups", 2);
+            options.AddUserProfilePreference("profile.default_content_setting_values.javascript", 2);
             options.AddArguments("se:recordVideo", "true");
             return _testSettings.BrowserType switch
             {

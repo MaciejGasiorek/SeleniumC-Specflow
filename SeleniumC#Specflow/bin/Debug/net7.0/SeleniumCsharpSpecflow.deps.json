@@ -17,6 +17,7 @@
           "NUnit": "3.14.0",
           "NUnit3TestAdapter": "4.5.0",
           "Newtonsoft.Json": "13.0.3",
+          "RestSharp": "111.2.0",
           "Selenium.Support": "4.21.0",
           "Selenium.WebDriver": "4.21.0",
           "SolidToken.SpecFlow.DependencyInjection": "3.9.3",
@@ -694,6 +695,14 @@
           "lib/netcoreapp3.1/RazorEngine.NetCore.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "RestSharp/111.2.0": {
+        "runtime": {
+          "lib/net7.0/RestSharp.dll": {
+            "assemblyVersion": "111.2.0.0",
+            "fileVersion": "111.2.0.0"
           }
         }
       },
@@ -1718,6 +1727,13 @@
       "sha512": "sha512-BWY2pzWWWpwa+rD63Eyqi+96bYf/ChLq3tixxlD3SpgMvhpG48aeqYbyEf23OE3Psy0Y4O1b0oWXU9Xh/PWrzA==",
       "path": "razorengine.netcore.nixfix/1.0.1",
       "hashPath": "razorengine.netcore.nixfix.1.0.1.nupkg.sha512"
+    },
+    "RestSharp/111.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OkWr6AGM0zirdkRpxVOxXMWx9OHEIWrDzrpx1XIx5KyvTcmtjJVsKBscVkYTcFerhj5w5Bny7boRIV4a0ENGaQ==",
+      "path": "restsharp/111.2.0",
+      "hashPath": "restsharp.111.2.0.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {
       "type": "package",
